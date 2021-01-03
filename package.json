@@ -2,7 +2,7 @@
 	"name": "mando-recipes",
 	"version": "1.0.0",
 	"description": "Food recipes sample page built with HTML and Tailwind CSS.",
-	"main": "public/index.js",
+	"main": "index.js",
 	"scripts": {
 		"build-css": "tailwindcss build src/styles.css -o styles.css",
 		"dev": "parcel index.html",
