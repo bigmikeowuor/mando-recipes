@@ -5,9 +5,8 @@ Food recipes sample page built with HTML and Tailwind CSS.
 ## Technologies Used
 
 1. HTML.
-1. Tailwind CSS
-1. GitHub Actions.
-1. Firebase Hosting.
+1. Tailwind CSS.
+1. Google Cloud Run.
 
 ## Live site
 
