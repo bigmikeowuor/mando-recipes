@@ -2,7 +2,7 @@
 	"name": "mando-recipes",
 	"version": "1.0.0",
 	"description": "Food recipes sample page built with HTML and Tailwind CSS.",
-	"main": "index.js",
+	"main": "index.html",
 	"scripts": {
 		"build-css": "tailwindcss build src/styles.css -o styles.css",
 		"dev": "parcel index.html",
@@ -12,9 +12,7 @@
 	"author": "Michael Owuor",
 	"license": "ISC",
 	"dependencies": {
+		"parcel-bundler": "^1.12.4",
 		"tailwindcss": "^1.9.6"
-	},
-	"devDependencies": {
-		"parcel-bundler": "^1.12.4"
 	}
 }
